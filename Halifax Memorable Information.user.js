@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Halifax Memorable Information
 // @namespace    https://github.com/benbristow/halifax-memorableinfo-tampermonkey
-// @version      0.1
+// @version      0.2
 // @description  Automatically inputs 'memorable information' on Halifax's banking site
 // @author       Ben Bristow
 // @match        https://secure.halifax-online.co.uk/personal/a/logon/entermemorableinformation.jsp
